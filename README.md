@@ -253,8 +253,9 @@ Busan Go?는 사용자의 여행 테마와 선호도를 기반으로 최적화�
 ### ◈ 공지사항 작성
 <img src="https://github.com/user-attachments/assets/39c868bf-b1ff-4ab0-a010-5bc4290ab290" alt="공지사항 작성" width="100%"/>
 
-
 </details>
+
+---
 
 <details>
 <summary><strong>✨ 사용자 이벤트 페이지</strong></summary>
@@ -274,8 +275,9 @@ Busan Go?는 사용자의 여행 테마와 선호도를 기반으로 최적화�
 ### ◈ 뱃지패드
 <img src="https://github.com/user-attachments/assets/54462048-9aab-4c37-8f2f-39a5e68edb5a" alt="뱃지패드 " width="100%"/>
 
-
 </details>
+
+---
 
 ## 🧬 ERD & 테이블 명세서
 
