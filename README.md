@@ -229,6 +229,54 @@ Busan Go?는 사용자의 여행 테마와 선호도를 기반으로 최적화�
 
 ---
 
+<details>
+<summary><strong>✨ 관리자 페이지</strong></summary>
+
+### ◈ 관리자 대시보드
+<img src="https://github.com/user-attachments/assets/34f46341-4e74-4945-93a8-1058d52b6c14" alt="관리자 대시보드" width="100%"/>
+
+### ◈ 회원관리
+<img src="https://github.com/user-attachments/assets/838e786e-f7f7-4bb6-bd86-7ff1942f77a4" alt="회원관리" width="100%"/>
+
+### ◈ 리뷰관리
+<img src="https://github.com/user-attachments/assets/5c1f5cb8-1e32-4c8a-9498-48b11a9136bf" alt="리뷰관리" width="100%"/>
+
+### ◈ 문의관리
+<img src="https://github.com/user-attachments/assets/00955321-db62-42e3-85be-bff7a9cd737f" alt="문의관리" width="100%"/>
+
+### ◈ 문의관리 상세
+<img src="https://github.com/user-attachments/assets/d0db3b62-e696-4dfe-86e3-b53df4e58213" alt="문의관리 상세" width="100%"/>
+
+### ◈ 공지사항
+<img src="https://github.com/user-attachments/assets/14c481ff-a9c3-4f85-98a9-25029ded0fd7" alt="공지사항" width="100%"/>
+
+### ◈ 공지사항 작성
+<img src="https://github.com/user-attachments/assets/39c868bf-b1ff-4ab0-a010-5bc4290ab290" alt="공지사항 작성" width="100%"/>
+
+
+</details>
+
+<details>
+<summary><strong>✨ 사용자 이벤트 페이지</strong></summary>
+
+### ◈ 진행중 이벤트
+<img src="https://github.com/user-attachments/assets/ceda4f1d-9acb-4071-87e0-7a5cefef154e" alt="진행중 이벤트" width="100%"/>
+
+### ◈ 진행중 이벤트 상세
+<img src="https://github.com/user-attachments/assets/c5a65c26-8f7f-475d-bd0b-1da44bf966c5" alt="진행중 이벤트 상세 " width="100%"/>
+
+### ◈ 부산 명소 스탬프 투어
+<img src="https://github.com/user-attachments/assets/47902303-e7ed-4633-aab5-1046142733a7" alt="부산 명소 스탬프 투어" width="100%"/>
+
+### ◈ 여행 쿠폰
+<img src="https://github.com/user-attachments/assets/c50769fb-3f66-4d58-b466-8a32ffa315f0" alt="여행 쿠폰" width="100%"/>
+
+### ◈ 뱃지패드
+<img src="https://github.com/user-attachments/assets/54462048-9aab-4c37-8f2f-39a5e68edb5a" alt="뱃지패드 " width="100%"/>
+
+
+</details>
+
 ## 🧬 ERD & 테이블 명세서
 
 <details>
